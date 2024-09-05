@@ -9,7 +9,7 @@ public class MainBicycle {
         b1.price = 150000;
         System.out.printf("b1 =>(%s , %.2f, %d)\n", b1.name, b1.wegiht , b1.price);
 
-
+ㅁㅇ
 
     }
 }
